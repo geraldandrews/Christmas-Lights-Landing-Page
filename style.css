@@ -122,7 +122,7 @@
 }
 
 body {
-    background: url('../img/bg-4.jpg') no-repeat center center/cover;
+    background: url('img/bg-4.jpg') no-repeat center center/cover;
     font-family: 'Poppins', sans-serif;
     color: var(--white);
     height: 100vh;
