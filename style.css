@@ -207,7 +207,7 @@ body {
     align-items: center;
     position: absolute;
     left: 10px;
-    bottom: 0;
+    bottom: 10px;
 }
 
 .bulb-settings .box {
@@ -441,7 +441,7 @@ body {
     .bulb-settings {
         width: 75%;
         left: 25px;
-        bottom: 0;
+        bottom: 10px;
     }
 }
 
