@@ -440,6 +440,8 @@ body {
 
     .bulb-settings {
         width: 75%;
+        left: 25px;
+        bottom: 0;
     }
 }
 
